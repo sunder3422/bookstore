@@ -1,0 +1,18 @@
+.regusername,.regpassword,.regemail{
+    width:250px;
+    height:30px;
+    margin:10px;
+}
+.regSubmit{
+    width:100px;
+    height:30px;
+    font-size: 10px;
+}
+.regform{
+    background-color: rgb(207, 203, 197);
+    width:300px;
+    text-align: center;
+    margin:10px auto;
+    padding:20px;
+    height:250px;
+}

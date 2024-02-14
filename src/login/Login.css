@@ -1,0 +1,18 @@
+.loginusername,.loginpassword{
+    width:250px;
+    height:30px;
+    margin:10px;
+}
+.loginSubmit{
+    width:100px;
+    height:30px;
+    font-size: 10px;
+}
+.loginform{
+    background-color: rgb(207, 203, 197);
+    width:300px;
+    text-align: center;
+    margin:10px auto;
+    padding:20px;
+    height:250px;
+}
