@@ -3,6 +3,8 @@
 export default function Home()
 {
     return(
-        <div>this is home</div>
+        <div>
+            <h1>Welcome to BookStore</h1>
+        </div>
     );
 }
